@@ -1,0 +1,15 @@
+{
+  "name": "mowner",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Geno Roupsky <geno@roupsky.name> (https://github.com/groupsky)",
+  "license": "ISC",
+  "dependencies": {
+    "axel": "0.0.3"
+  }
+}
